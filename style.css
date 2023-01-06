@@ -1,0 +1,28 @@
+*,::before::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: skyblue;
+    text-align: center;
+
+}
+.container h1{
+    padding: 30px;
+}
+img{
+    max-width: 20%;
+    padding: 30px;
+    border-radius: 20px;
+}
